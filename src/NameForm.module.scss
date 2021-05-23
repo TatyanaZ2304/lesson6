@@ -1,0 +1,46 @@
+.container{
+  margin:0 auto;
+  width:500px;
+  height: 300px;
+  border: 2px solid rgb(82, 53, 53);   
+  background: rgb(66, 145, 145);
+  
+}
+
+.container .inp_name1{
+    margin-top: 50px;
+    width: 250px;
+    border: 1px solid rgb(61, 49, 49);  
+    border-radius: 7px;
+    background: rgb(240, 230, 230);
+}
+
+.container .inp_name2{
+    margin-top:2px;
+    width: 250px;
+    border: 1px solid rgb(61, 49, 49);  
+    border-radius: 7px;
+    background: rgb(240, 230, 230);
+}
+.container .t_name{ 
+    margin-top: 2px;
+    margin:10px;
+    width: 250px;
+    height: 70px;
+    border: 1px solid rgb(61, 49, 49);  
+    border-radius: 7px;
+    background: rgb(252, 229, 246);
+ }
+
+.submitBtn{
+   width: 90px;
+   height: 20px;
+   font-size: 15px;
+   font-weight: 500;
+   border:black solid 1px;
+   border-radius: 5px;
+   background: rgb(173, 38, 133);
+   color:rgb(27, 7, 41);
+}
+
+
